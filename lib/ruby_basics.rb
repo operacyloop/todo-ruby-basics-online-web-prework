@@ -1,6 +1,5 @@
 def division(num1, num2)
-  answer = num1 / num2
-  returns answer
+  12.fdiv(2)
 end
 
 def assign_variable(value)
